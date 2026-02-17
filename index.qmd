@@ -1,0 +1,229 @@
+---
+format: 
+  html:
+    theme: cosmo
+    toc: false
+    smooth-scroll: true
+    css: styles.css
+    javascript: script.js
+---
+
+::: {.hero}
+::: {.hero-left}
+# GAYASHAN MADUWANTHA
+
+## Senior UI/UX Engineer | Project Coordinator | MBA Candidate
+
+New Westminster, BC (V3L 0H4)  
+gmwalawage@gmail.com  
+778-889-3304  
+
+[Contact Me](https://www.linkedin.com/in/gayashan-walawage)
+:::
+
+::: {.hero-right}
+![](main.png)
+:::
+:::
+
+::: {.container}
+
+# About Me {.section}
+
+Results-driven UI/UX Engineer specializing in scalable web and mobile applications. I combine UI engineering skills with UX practices user research, wireframing, prototyping, and usability testing—to create intuitive and accessible digital experiences. I bring 5+ years of experience leading cross-functional work across design, technology, and business teams, supported by a Software Engineering degree and an MBA in progress.
+
+I’m passionate about bridging strong technical implementation with exceptional user experience—building solutions that are both robust and user-friendly. I work comfortably in Agile/Scrum environments, collaborating with stakeholders across product, engineering, and QA to support on-time, high-quality delivery while improving workflows and reducing risk.
+
+
+## Technical Focus {.card}
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Java  
+- Angular Material  
+- React  
+- SQL  
+- Git  
+- Agile methodologies  
+- Automated testing  
+
+I apply responsive design and WCAG accessibility practices to support cross-device compatibility and inclusive experiences. I also have experience with complete e-commerce development, including shopping cart functionality, secure payment processing, and user authentication systems.
+
+
+# Core Competencies {.section}
+
+::: {.card}
+- Project Coordination  
+- Operations Management  
+- Process Improvement  
+- Stakeholder Communication  
+- Scrum/Agile Methodologies  
+- Leadership  
+- Strategic Thinking  
+- Cross-functional Collaboration  
+- Risk Mitigation  
+- Scheduling & Planning  
+- Quality Assurance  
+:::
+
+
+# Accomplishments {.section}
+
+::: {.card}
+- Streamlined inventory and scheduling, improving delivery turnaround and accuracy by 25%.  
+- Improved project workflow efficiency by 30% through Agile sprint planning and cross-functional coordination using Jira and Figma.  
+- Built a scalable design system that cut UI inconsistencies by 50% and reduced development time by 40%.  
+- Collaborated with engineering and QA teams to deliver enterprise projects on time and within scope.  
+- Conducted user testing with 200+ participants, boosting task completion rates by 30%.  
+:::
+
+# Projects {.section}
+
+## AI Grow — Web & Mobile Application {.card}
+
+### Overview
+
+AI Grow is a community driven web and mobile application designed to help users grow, manage, and monitor fresh greens using controlled greenhouses and self-sustaining home units. It leverages IoT technology and real-time monitoring to optimize plant growth by tracking key parameters such as temperature, humidity, and nutrient levels. The application simplifies crop management and enables users to control processes remotely.
+
+### Technology Stack
+
+- Web + Mobile application  
+- IoT integration  
+- Real-time monitoring (temperature, humidity, nutrient levels)  
+- Remote control capability  
+
+
+## Bricks+Agent — Property Management Platform (PropTech) {.card}
+
+### Overview
+
+Bricks+Agent is a property management platform that connects property managers, owners, tenants, and trades to streamline maintenance tasks. It includes automated job scheduling, real-time progress tracking, invoicing, and communication tools. Using AI and automation, it improves decision-making and efficiency within a user-friendly interface.
+
+### Technology Stack
+
+- Web platform  
+- AI + automation  
+- Automated job scheduling  
+- Real-time progress tracking  
+- Invoicing + communication tools  
+
+## Vega EVX Projects {.card}
+
+### Overview
+
+Vega EVX super car project is a R & D project which align to build a electric super car 
+
+### Technology Stack
+
+- AngularJS  
+- HTML5  
+- JavaScript  
+
+# Experience {.section}
+
+## Senior UI/UX Engineer | B2B Platforms | JRC Software, Sri Lanka {.card}
+**01/2024 – 09/2024**
+
+- Led design and development of enterprise project management systems, increasing workflow efficiency by 30%.  
+- Collaborated with project managers and developers in Agile teams to meet project milestones and client expectations.  
+- Conducted user research and usability testing sessions to drive data-informed decisions across design sprints.  
+- Created scalable design systems that improved design consistency and reduced development time.  
+- Supported cross-functional project planning, sprint reviews, and retrospective meetings.  
+
+---
+
+## UI/UX Engineer | B2B Platforms | JRC Software, Sri Lanka {.card}
+**08/2021 – 12/2023**
+
+- Managed full-cycle UX initiatives for enterprise platforms, improving usability metrics by 25%.  
+- Coordinated with product managers, business analysts, and engineers to align technical deliverables with user needs.  
+- Conducted design audits and implemented feedback loops that reduced user error rates by 35%.  
+- Produced and maintained project documentation, workflows, and design specifications to ensure timely delivery.  
+
+
+## Intern Software Engineer | CodeGen International, Sri Lanka {.card}
+**08/2019 – 10/2020**
+
+- Assisted in software R&D projects, supporting planning, prototyping, and testing activities.  
+- Contributed to workflow optimization by implementing automated reporting features and documentation.  
+- Supported project managers in planning and tracking multiple concurrent projects within enterprise software teams.  
+- Created research dashboards that improved the collection and analysis of plant data, in coordination with the agronomist.  
+- Led UX audits and collaborated with backend and frontend teams to ensure project delivery met client requirements.   
+
+
+# Volunteer / Leadership {.section}
+
+## Event Coordinator | MBA Games 2025 — University Canada West, Vancouver, BC {.card}
+
+Coordinated the event with teams and managed scheduling for inter-university competitions.
+
+
+# Education {.section}
+
+## Master of Business Administration (MBA) {.card}
+University Canada West, Vancouver, Canada — In Progress
+
+## Bachelor of Engineering (Hons) – Software Engineering {.card}
+University of Westminster, London, UK — 2021
+
+
+# Certifications {.section}
+
+::: {.card}
+- Certified Digital Marketing Associate | Digital Marketing Institute — 08/2025  
+- Google UX Design Professional Certificate | Coursera — In Progress  
+:::
+
+
+# Skills / Tools {.section}
+
+### UI/UX & Product Design {.card}
+
+- User research  
+- Wireframing  
+- Prototyping  
+- Usability testing  
+- Design systems  
+- Responsive design  
+- WCAG accessibility  
+
+### Front-End / Engineering {.card}
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React  
+- AngularJS  
+- Angular Material  
+- Java  
+
+### Data / Delivery {.card}
+
+- SQL  
+- Git  
+- Agile/Scrum  
+- Automated testing  
+
+### Tools {.card}
+
+- Figma  
+- Jira  
+- Adobe XD  
+- Sketch  
+ 
+
+# Contact {.section}
+
+::: {.card}
+Email: gmwalawage@gmail.com  
+Phone: 778-889-3304  
+Location: New Westminster, BC  
+
+[LinkedIn Profile](https://www.linkedin.com/in/gayashan-walawage)
+:::
+:::
+
+<footer>
+© 2024 Gayashan Maduwantha. All rights reserved.
+</footer>
